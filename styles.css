@@ -1,2 +1,28 @@
 
 /* Your CSS Code here. */
+table{
+	width:600px;
+}
+table,th,td{
+	border:1px solid black;
+}
+.chart_size,th{
+	text-align:left;
+}
+td{
+	text-align:right;
+}
+#header_row{
+	background-color:#de435f;
+	color:white;
+}
+#row1{
+	background-color:#f294c8;
+	color:white;
+}
+#row2{
+	background-color:#f0d1ed;
+}
+#row3{
+	background-color:#cfcef2;
+}
